@@ -149,7 +149,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GJAJYWAT
+DocumentUniqueId=UXJZNOUV
 
 [Document7]
 DocumentPath=pcb\ch347-hs-usb-bridge.PcbLib
@@ -167,6 +167,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TIYCGCNA
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ch347-v2\Design Rule Check - ch347-hs-usb-bridge.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -791,6 +795,11 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
